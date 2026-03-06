@@ -1,7 +1,7 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/4410f1adfd3788a54362b1c3ac81f172e9af3ad4/.Modules/settings.schema.json",
   "githubRunnerShell": "powershell",
   "githubRunner": "windows-latest",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/4410f1adfd3788a54362b1c3ac81f172e9af3ad4/.Modules/settings.schema.json",
   "useCompilerFolder": true,
   "artifact": "////nextmajor",
   "conditionalSettings": [
@@ -25,5 +25,6 @@
   },
   "useApproximateVersion": true,
   "UseProjectDependencies": true,
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "2ecc967d18fdfeeb76659fca3977442c25b1613e"
 }
